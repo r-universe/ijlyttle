@@ -8,10 +8,8 @@
 	url = https://github.com/ijlyttle/bsplus
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "vembedr"]
 	path = vembedr
 	url = https://github.com/ijlyttle/vembedr
 	shallow = true
 	registered = true
-	oncran = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bsplus",
+    "oncran": true
+  },
+  {
+    "package": "vembedr",
+    "oncran": true
+  }
+]
